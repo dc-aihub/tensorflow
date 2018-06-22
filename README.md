@@ -53,6 +53,8 @@
 
 [3. Image Captioning](https://github.com/dc-aihub/tensorflow/blob/master/nlp/Lesson03_Image_Captioning.ipynb)
 
+[4. Text Summarization](https://github.com/dc-aihub/tensorflow/blob/master/nlp/Lesson04_Keras_Text_Summarization.ipynb)
+
 
 
 <hr/>
