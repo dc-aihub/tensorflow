@@ -55,6 +55,8 @@
 
 [4. Text Summarization](https://github.com/dc-aihub/tensorflow/blob/master/nlp/Lesson04_Keras_Text_Summarization.ipynb)
 
+[5. Time Series Prediction](https://github.com/dc-aihub/tensorflow/blob/master/nlp/Lesson05_Time_Series_Prediction.ipynb)
+
 
 
 <hr/>
